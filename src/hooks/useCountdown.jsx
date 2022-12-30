@@ -4,7 +4,9 @@ const useCountdown = (date) => {
     const countDate = new Date(date).getTime();
     const now = new Date().getTime();
 
-    console.log(countDate, now);
+    const interval = countDate - now;
+
+    console.log(interval);
 
     return 1;
 };
