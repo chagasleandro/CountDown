@@ -19,6 +19,8 @@
 
 ## :dart: About ##
 This project consists of creating a 2023 countdown with the Vite + React framework.
+<img src="./src/assets/project.jpg" />
+<br/><br/>
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
