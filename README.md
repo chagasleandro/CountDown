@@ -18,8 +18,7 @@
 </p>
 
 ## :dart: About ##
-Este projeto foi desenvolvido em Vite+React com o tema de contagem regressiva para o novo ano de 2023.
-
+This project consists of creating a 2023 countdown with the Vite + React framework.
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
