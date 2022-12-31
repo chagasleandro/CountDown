@@ -6,7 +6,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="https://github.com/chagasleandro" target="_blank">Author</a>&#xa0; | &#xa0
-  <a href="https://disney-plus-clone-chi.vercel.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
+  <a href="https://vercel.com/chagasleandro/count-down" target="_blank" rel="noopener noreferrer">Projeto</a>
 </p>
 
 <br>
